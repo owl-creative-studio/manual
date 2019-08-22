@@ -36,6 +36,13 @@ html, body {
   height: 50px;
 }
 
+figcaption{
+  padding:10px 0;
+  font-weight: 200;
+  font-style: italic;
+  text-align: center;
+}
+
 p {
   line-height: 1.5;
 }
